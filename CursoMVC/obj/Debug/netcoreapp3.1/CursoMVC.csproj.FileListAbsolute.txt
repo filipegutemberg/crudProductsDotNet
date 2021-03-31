@@ -169,3 +169,13 @@ C:\Users\filipegutemberg\source\repos\CursoMVC\CursoMVC\obj\Debug\netcoreapp3.1\
 C:\Users\filipegutemberg\source\repos\CursoMVC\CursoMVC\obj\Debug\netcoreapp3.1\Razor\Views\Produtos\Details.cshtml.g.cs
 C:\Users\filipegutemberg\source\repos\CursoMVC\CursoMVC\obj\Debug\netcoreapp3.1\Razor\Views\Produtos\Edit.cshtml.g.cs
 C:\Users\filipegutemberg\source\repos\CursoMVC\CursoMVC\obj\Debug\netcoreapp3.1\Razor\Views\Produtos\Index.cshtml.g.cs
+C:\Users\filipegutemberg\source\repos\CursoMVC\CursoMVC\obj\Debug\netcoreapp3.1\Razor\Views\Clientes\Create.cshtml.g.cs
+C:\Users\filipegutemberg\source\repos\CursoMVC\CursoMVC\obj\Debug\netcoreapp3.1\Razor\Views\Clientes\Delete.cshtml.g.cs
+C:\Users\filipegutemberg\source\repos\CursoMVC\CursoMVC\obj\Debug\netcoreapp3.1\Razor\Views\Clientes\Details.cshtml.g.cs
+C:\Users\filipegutemberg\source\repos\CursoMVC\CursoMVC\obj\Debug\netcoreapp3.1\Razor\Views\Clientes\Edit.cshtml.g.cs
+C:\Users\filipegutemberg\source\repos\CursoMVC\CursoMVC\obj\Debug\netcoreapp3.1\Razor\Views\Clientes\Index.cshtml.g.cs
+C:\Users\filipegutemberg\source\repos\CursoMVC\CursoMVC\obj\Debug\netcoreapp3.1\Razor\Views\Vendas\Create.cshtml.g.cs
+C:\Users\filipegutemberg\source\repos\CursoMVC\CursoMVC\obj\Debug\netcoreapp3.1\Razor\Views\Vendas\Delete.cshtml.g.cs
+C:\Users\filipegutemberg\source\repos\CursoMVC\CursoMVC\obj\Debug\netcoreapp3.1\Razor\Views\Vendas\Details.cshtml.g.cs
+C:\Users\filipegutemberg\source\repos\CursoMVC\CursoMVC\obj\Debug\netcoreapp3.1\Razor\Views\Vendas\Edit.cshtml.g.cs
+C:\Users\filipegutemberg\source\repos\CursoMVC\CursoMVC\obj\Debug\netcoreapp3.1\Razor\Views\Vendas\Index.cshtml.g.cs

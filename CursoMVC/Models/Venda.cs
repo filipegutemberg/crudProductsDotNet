@@ -5,13 +5,13 @@ using System.Threading.Tasks;
 
 namespace CursoMVC.Models
 {
-    public class Produto
+    public class Venda
     {
         public int Id { get; set; }
-        public string Descricao { get; set; }
+        public int ProdutoId { get; set; }
+        public Produto Produto { get; set; }
         public int Quantidade { get; set; }
-        public int CategoriaId { get; set; }
-        public Categoria Categoria { get; set; }
-        public List<Venda> Vendas { get; set; }
+        public int ClienteId { get; set; }
+        public Cliente Cliente { get; set; }
     }
 }
